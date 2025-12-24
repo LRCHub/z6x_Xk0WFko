@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "コロンブス (Live)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-24T14:08:16.666920Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コロンブス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_コロンブス_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コロンブス - Columbus",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_コロンブス_-_Columbus_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コロンブス",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_コロンブス_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
