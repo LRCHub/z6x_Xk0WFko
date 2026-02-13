@@ -1,4 +1,4 @@
-# Mrs. GREEN APPLE – コロンブス (Live)
+# Mrs. GREEN APPLE – コロンブス - Columbus
 
 > **歌詞登録ステータス：同期歌詞あり**
 
